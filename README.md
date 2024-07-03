@@ -1,4 +1,4 @@
-# Internship-projects
+# CODSOFT
 
 
 # STUDENT GRADE CALCULATOR
